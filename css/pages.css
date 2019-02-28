@@ -1,0 +1,41 @@
+.breadcrumb-holder
+{
+	margin-top:20px;
+	margin-bottom:10px;
+}
+.about-Us
+{
+	padding:70px 0
+}
+
+.about-Us h1
+{
+color:blue;
+font-size:62px;
+letter-spacing:1px
+}
+.about-Us hr
+{
+	width:50%;
+	
+}
+.about-features
+{
+	padding:0 0 70px
+}
+  .about-features h3
+  {
+  	font-size:20px;
+  	color:#15F0A0;
+  	margin-bottom:20px;
+  }
+  .man
+  {
+  	background:silver;
+  	padding-top:40px
+  }
+  .man h3
+  {
+  	color:red;
+  	font-size:30px
+  }
